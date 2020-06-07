@@ -1,10 +1,10 @@
 ![Suggester Logo](/images/coverpageLogo.png)
 
-- A Discord bot that helps you manage your server suggestions
+- Sunucunuzun önerilerini yönetmeye yarayan bir bot
 
-[Get Started](getting-started.md)
-[More Info](home.md)
+[Haydi Başlayalım](getting-started.md)
+[Daha Fazla Bilgi](home.md)
 
 <!-- background color -->
 
-![color](#7289da)
+![renk](#7289da)
